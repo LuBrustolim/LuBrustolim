@@ -10,6 +10,13 @@ em strong {
 color: red;
 
 }
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+
+}
 . itens{
     font-size: italic;
     font-size: 20px;
